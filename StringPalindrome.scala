@@ -19,7 +19,7 @@ object StringPalindrome {
         print("YES")
     }
     catch {
-      case a: IOException => {
+      case a: Exception => {
         println("IOException occurred.")
       }
     }
