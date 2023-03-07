@@ -1,5 +1,5 @@
 import java.io.IOException
-import scala.io.StdIn.readInt;
+import scala.io.StdIn._;
 
 object CountDivisor {
   private def numberOfDivisor(num1: Int, num2: Int, divisor: Int): Int = {
