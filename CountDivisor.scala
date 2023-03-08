@@ -15,7 +15,6 @@ object CountDivisor {
       }
     }
     return count
-
   }
 
   def main(args: Array[String]): Unit = {
